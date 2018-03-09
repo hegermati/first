@@ -715,3 +715,5 @@
 192.168.1.13 - - [09/Mar/2018:12:23:07 +0300] "GET / HTTP/1.1" 500 177087 "-" "Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:58.0) Gecko/20100101 Firefox/58.0"
 192.168.1.13 - - [09/Mar/2018:12:23:07 +0300] "GET /favicon.ico HTTP/1.1" 200 296 "-" "Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:58.0) Gecko/20100101 Firefox/58.0"
 192.168.1.13 - - [09/Mar/2018:12:24:43 +0300] "GET / HTTP/1.1" 200 1797 "-" "Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:58.0) Gecko/20100101 Firefox/58.0"
+192.168.1.13 - - [09/Mar/2018:12:45:30 +0300] "GET / HTTP/1.1" 200 1801 "-" "Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:58.0) Gecko/20100101 Firefox/58.0"
+192.168.1.13 - - [09/Mar/2018:12:45:31 +0300] "GET / HTTP/1.1" 200 1794 "-" "Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:58.0) Gecko/20100101 Firefox/58.0"
